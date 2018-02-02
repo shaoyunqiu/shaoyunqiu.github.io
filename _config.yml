@@ -8,14 +8,15 @@ title: YS's  BLOG
 subtitle: About Life, About Anything
 description: 无关学术，只关生活
 author: Yunqiu Shao
+email: shaoyunqiu14@gmail.com
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
-baseurl:
+url: "https://shaoyunqiu.github.io"
+baseurl: 
 permalink: pretty
 
 # Pagination

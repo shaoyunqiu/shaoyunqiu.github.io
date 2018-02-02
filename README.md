@@ -4,6 +4,6 @@
 
 给自己留下一点记录。
 
-网址为: <github class="io">shaoyunqiu</github>
+网址为: <github class="io">shaoyunqiu.github.io</github>
 
 模板由NexT 支持，Jekyll主题。
