@@ -5,7 +5,7 @@ categories:
 - About
 ---
 
-# 写在最开始的话
+# <center>写在最开始的话</center>
 
 #### Author:
 
