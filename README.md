@@ -4,4 +4,4 @@
 
 给自己留下一点记录。
 
-模板由NexT 支持，Jekell主题。
+模板由NexT 支持，Jekyll主题。
