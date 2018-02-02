@@ -476,8 +476,8 @@ facebook_comments_plugin:
 # VKontakte API Support.
 # To get your AppID visit https://vk.com/editapp?act=create
 vkontakte_api:
-  enable: false
-  app_id:       #<app_id>
+  enable: true
+  app_id:       6356655
   like:         true
   comments:     true
   num_of_posts: 10
