@@ -1,10 +1,8 @@
 ---
 title: Categories
-date: 2013-12-24 23:30:09
+date: 2018-02-02 1:04:09
 categories:
-- Foo
-- Bar
-- Baz
+- 总结
+- 有的没的
 ---
 
-This post contains 3 categories. Make sure your theme can display all of the categories.
