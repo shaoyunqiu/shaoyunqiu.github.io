@@ -14,9 +14,9 @@ Yunqiu Shao (邵韵秋)
 - @Tsinghua University
 - **Major**:  CST;  **Minor**:  Economics
 - **Internship**: ISI(Information Science Institute), Viterbi Engineering School of USC, CA, USA
-- **Area of Interests**: Misinformation, Fakenews, User study, Artificial Intelligence
+- **Area of Interests**: Search Engine, User Study, Misinformation
 - **Languages**: 中文, English, 日本語
-- **Other**: undergraduate —> PhD
+- **Other**: PhD Student
 
 
 
